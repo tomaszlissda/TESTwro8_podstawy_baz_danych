@@ -10,9 +10,9 @@
   ![Krok 4](./obrazy/Instalator_krok4.PNG)
   ![Krok 5](./obrazy/Instalator_krok5.PNG)
   ![Krok 6](./obrazy/Instalator_krok6.PNG)
-  ![preprekwizyty instalacji](./obrazy/Instalator_krok1.PNG)
-  ![prerekwizyty zainstalowane](./obrazy/Instalator_krok1.PNG)
-  ![potwierdzenie prerekwizytów](./obrazy/Instalator_krok1.PNG)
+  ![preprekwizyty instalacji](./obrazy/prerekwizyt instalacja.PNG)
+  ![prerekwizyty zainstalowane](./obrazy/prerekwizyt success.PNG)
+  ![potwierdzenie prerekwizytów](./obrazy/spełnione prerekwizyty.PNG)
 
 jeśli nie uda się zainstalować prerekwizyt Microsoft Visual C++ 2019 Redistributable Package (x64) możesz pobrać ten
 prerekwizyt ze strony:
