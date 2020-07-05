@@ -61,6 +61,9 @@
   ale i łatwe do zapamiętania:
 
   ![Krok 13](./obrazy/Instalator_krok13.PNG)
+
+  Podążamy dalej używając domyślnych ustawień:
+
   ![Krok 14](./obrazy/Instalator_krok14.PNG)
   ![Krok 15](./obrazy/Instalator_krok15.PNG)
   ![Krok 16](./obrazy/Instalator_krok16.PNG)
@@ -89,9 +92,13 @@
 
 ## 4. Stwórz bazę danych sda_test
 
+  Materiał pomocniczy: [CREATE DATABASE](https://dev.mysql.com/doc/refman/8.0/en/creating-database.html)
+
 ## 5. Utwórz użytkownika z loginem odpowiadającym Twojemu imieniu
+
+  Dokumentacja: [CREATE USER](https://dev.mysql.com/doc/refman/8.0/en/create-user.html)
 
 ## 6. Nadaj uprawnienia "do wszystkiego" utworzonemu użytkownikowi
 
-Materiały pomocnicze:
+  Materiały pomocnicze:
   [Dokumentacja GRANT](https://dev.mysql.com/doc/refman/8.0/en/grant.html)
