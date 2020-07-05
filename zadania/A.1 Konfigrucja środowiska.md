@@ -39,6 +39,7 @@
   ![prerekwizyty zainstalowane](./obrazy/prerekwizyt_success.PNG)
 
   Wracając do okna prerekwizytów widzimy:
+
   ![potwierdzenie prerekwizytów](./obrazy/spelnione_prerekwizyty.PNG)
 
   Jeśli nie uda się zainstalować prerekwizyt Microsoft Visual C++ 2019 Redistributable Package (x64) możesz pobrać ten
