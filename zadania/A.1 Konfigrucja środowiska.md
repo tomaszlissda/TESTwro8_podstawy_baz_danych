@@ -2,7 +2,7 @@
 
 1. Pobierz instalator ze [strony producenta](https://dev.mysql.com/downloads/installer/)
 2. Podążaj za instalatorem
-  ![Krok 1](./obrazy/Instalator_krok1.png)
+  ![Krok 1](./obrazy/Instalator_krok1.PNG)
   ![Krok 2](./obrazy/Instalator_krok2.png)
   ![Krok 3](./obrazy/Instalator_krok3.png)
   ![Krok 4](./obrazy/Instalator_krok4.png)
