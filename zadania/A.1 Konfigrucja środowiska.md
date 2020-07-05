@@ -8,7 +8,7 @@
   ![Krok 2](./obrazy/Instalator_krok2.PNG)
   ![Krok 3](./obrazy/Instalator_krok3.PNG)
   ![Krok 4](./obrazy/Instalator_krok4.PNG)
-  ![Krok 5](./obrazy/Instalator_krok5.PNG)
+  ![Krok 5](./obrazy/Instalator_krok5_opcjonalny.PNG)
   ![Krok 6](./obrazy/Instalator_krok6.PNG)
   ![preprekwizyty instalacji](./obrazy/prerekwizyt instalacja.PNG)
   ![prerekwizyty zainstalowane](./obrazy/prerekwizyt success.PNG)
