@@ -1,15 +1,12 @@
-# 1. Czyszczenie dotychczasowego schematu bazy danych [10 min]
+# 1. Czyszczenie dotychczasowego schematu bazy danych (10 min)
 
   - Usuń następujące kolumny:
       - miejscowosc VARCHAR(255)
       - ulica VARCHAR(255)
       - nr_domu VARCHAR(255)
       - departament VARCHAR(255)
-  - Stwórz kilka adresów we Wrocławiu, Berlinie, Warszawie i Londynie
-  - Przypisz adresy do wybranych pracowników (nie wszystkich)
-  - Kilka adresów przypisz do więcej niż jednego pracownika
 
-# 2. Nowa tabela rodzajów wykształcenia [10 min]
+# 2. Nowa tabela rodzajów wykształcenia (5 min)
 
   - Utwórz tabelę zawierającą kolumny:
       - id TINYINT
@@ -24,7 +21,7 @@
   - Określ rodzaje wykształcenia pracowników. Załóżmy, że każdy z pracowników ma mieć wykształcenie średnie, większość
     pracowników powinna składać się z Magistrów i Inżynierów
 
-# 3. Nowa tabela departamentów [10 min]
+# 3. Nowa tabela departamentów (5 min)
 
   - Utwór[azwie `departament`
   - Utwórz kolumny:
@@ -38,7 +35,7 @@
       - 'Support'
   - Przypisz każdemu pracownikowi dowolny departament
 
-# 4. Nowa tabela adresów [10 min]
+# 4. Nowa tabela adresów (10 min)
   - Utwórz nową tabelę o nazwie `adres`
       - Utwórz kolumny:
       - id BIGINT
@@ -46,6 +43,9 @@
       - ulica VARCHAR(255)
       - nr_domu VARCHAR(255)
   - Dodaj do tabeli `pracownik` klucz obcy do tabeli `adres`
+  - Stwórz kilka adresów we Wrocławiu, Berlinie, Warszawie i Londynie
+  - Przypisz adresy do wybranych pracowników (nie wszystkich)
+  - Kilka adresów przypisz do więcej niż jednego pracownika
 
 
 # Zadanie dodatkowe 1

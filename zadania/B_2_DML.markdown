@@ -1,4 +1,4 @@
-# 1. Wstawianie rekordów do bazy danych [20 min]
+# 1. Wstawianie rekordów do bazy danych (20 min)
 
 - wstaw do tabeli pracowników rekord ze swoim imieniem, nazwiskiem i adresem
 - wstaw do tabeli kilka pracowników o wykształceniu wyższym, pozostałe atrybuty mogą być dowolne
@@ -12,7 +12,7 @@
 - wstaw pracownika który mieszka pod tym samym adresem co Ty
 - Wykonaj komędę `SELECT * FROM pracownicy;`, jaki wynik widzisz?
 
-# 2. Modyfikacja rekordów w bazie danych [25 min]
+# 2. Modyfikacja rekordów w bazie danych (25 min)
 - Ustaw wynagrodzenie wszystkich pracowników wartością 2500.00
 - Zmień departament wszystkich pracowników z Berlina i Londynu na 'Departament QA'
 - Zwiększ wynagrodzenie wszystkich pracowników departamentu QA do 4000.00
@@ -23,7 +23,7 @@
 - Zmień swój adres na adres w którym się znajdujemy (SWPS)
 - Wykonaj komędę `SELECT * FROM pracownicy;`, jaki wynik widzisz?
 
-# 3. Usuwanie rekordów z bazy danych [5 min]
+# 3. Usuwanie rekordów z bazy danych (5 min)
 - Usuń wszystkich pracowników którzy mieszkają pod tym samym adresem co Ty (teraz powinien być to adres SWPS)
 - Usuń wszystkich pracowników z Londynu
 - Wykonaj komędę 'SELECT * FROM pracownicy;', jaki wynik widzisz?
