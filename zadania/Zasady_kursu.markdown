@@ -24,3 +24,5 @@
    podstawowy i chcą zmierzyć się z kolejnym wyzwaniem
 5. Jeśli istnieją pomyłki np. w ortograficzne - prowadzący nie obraża
    się za ich wskazanie
+6. Listy nazwane są prefixem A, B, C, D - służy to do łatwiejszego
+   zlokalizowania punktu, w którym jesteśmy (informacja dla trenera)
