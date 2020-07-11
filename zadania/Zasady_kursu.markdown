@@ -19,4 +19,8 @@
    stane odpowiedzieć merytorycznie na zadane pytanie
 3. W czasie zajęć przysługuje nam 30 min przerwy, dysponujemy nią w
    cyklu:
-4. 
+4. W ramach zadań są również zadania dodatkowe, nie oczekuje się ich
+   wykonania na zajęciach, są one dla osób, które skończyły zakres
+   podstawowy i chcą zmierzyć się z kolejnym wyzwaniem
+5. Jeśli istnieją pomyłki np. w ortograficzne - prowadzący nie obraża
+   się za ich wskazanie
