@@ -7,7 +7,7 @@ W tej sekcji skupiamy się na podstawach modelu relacyjnego.
   - Proszę o stworzenie tabeli o następujących atrybutach:
     - nr_pracownika TINYINT
     - imie VARCHAR(255)
-    - nazisko VARCHAR(255)
+  -   nazwisko VARCHAR(255)
     - wynagrodzenie NUMERIC(15, 2)
   - Nr pracownika jest identyfikatorem unikalnym. Proszę aby ten atrybut był kluczem głównym.
 
