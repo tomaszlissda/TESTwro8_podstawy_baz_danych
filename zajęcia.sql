@@ -42,7 +42,7 @@ CREATE TABLE www (
 można to wykonać komendą alter. */
 ALTER TABLE www ADD COLUMN id BIGINT; -- widzimy tu składnię dodania kolumny id o typie BIGINT do tabeli on nazwie www
 -- innymi słowy aktualizujemy tabelę o dodanie kolumny id o typie bigint.
-ALTER TABLE www ADD PRIMARY KEY klucz_glowny_nazwa (id); /* Tu aktualizujemy tabelę ww o dodanie do niej ograniczenia 
+ALTER TABLE www ADD PRIMARY KEY (id); /* Tu aktualizujemy tabelę ww o dodanie do niej ograniczenia
 klucza głównego o nazwie klucz_glowny_nazwa, w nawiasach widzimy kolumnę, która reprezentuje klucz główny. Kolumn może być więcej niż jedna.
 Warunkiem koniecznym jest aby kolumna lub kolumny posiadały unikalne wartości we wszystkich wierszach. 
 Jeśli chcieli byśmy zrobić klucz główny na kilku kolumnach np: imie oraz nazwisko, oznaczało by to, że żaden rekord nie może powtarzać 
